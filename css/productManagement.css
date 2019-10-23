@@ -1,0 +1,42 @@
+.switch{
+    margin-bottom:0;
+    margin-right:10px;
+}
+#modal-countries-list .list-group-item{
+    padding: 4px !important;
+}
+.table td , .table th{
+    text-align: center;
+}
+.sm-region-container{
+    position: relative;
+    align-items: center;
+    background: #20a8d84d;
+    padding: 2px 10px 2px 15px;
+    border-radius: 5px;
+}
+.sm-region-container i{
+  margin-left:10px;
+}
+.switches-container{
+    display: flex;
+    align-items: center;
+}
+.shipping-actions{
+    justify-self: flex-end;
+    align-self: flex-end;
+    place-self: flex-end;
+    min-width: 85px;
+}
+.shipping-title{
+    padding:0 10px;
+}
+.fa-trash{
+    cursor:pointer;
+}
+.switch{
+    min-width:48px;
+}
+.region-flag{
+    height:20px;
+}
